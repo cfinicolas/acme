@@ -1,6 +1,6 @@
 {
   "name": "@cfinicolas/acme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dummy package for testing and experimentation.",
   "author": "Isabelo Nicolas II",
   "main": "dist/index.cjs",
